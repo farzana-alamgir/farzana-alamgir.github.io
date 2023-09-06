@@ -8,13 +8,13 @@
     - name: Languages
       value: English, Bengali
 
-- title: Teaching Experience
+- title: Education
   type: time_table
   contents:
-    - title: Course Instructor
-      institution: McMaster University
-      year: Summer 2023
+    - title: PhD
+      institution: McMaster University, Hamilton ON, Canada
+      year: June 2024 (expected)
       description:
-        - Intermediate Macroeconomics II, Econ 2HH3
-.
-   
+        - Dissertation: Sovereign Default
+
+        - Committee: Alok Johri (Chair), Gajendran Raveendranathan, Marc-Andre Letendre
