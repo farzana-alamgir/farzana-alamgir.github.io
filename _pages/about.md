@@ -1,6 +1,6 @@
 ---
-layout: welcome
-title: welcome
+layout: about
+title: about
 permalink: /
 
 profile:
