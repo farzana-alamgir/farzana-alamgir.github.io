@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Farzana Alamgir. I am a PhD candidate at McMaster University, Department of Economics. My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models. 
+Hello, my name is Farzana Alamgir. I am a PhD candidate at McMaster University, Department of Economics. My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models. Also focus on uncertainty
