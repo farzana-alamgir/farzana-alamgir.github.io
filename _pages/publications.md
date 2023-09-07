@@ -9,6 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
+</div>
 
 - Job Market Paper
   -Oil Price Uncertainty and Sovereign Default
