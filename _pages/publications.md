@@ -12,3 +12,6 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+- Working Papers
+  - Farzana Alamgir and Alok Johri (2022)  International Sovereign Spread Differences and the Poverty of Nations .
