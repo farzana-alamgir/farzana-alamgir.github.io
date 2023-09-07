@@ -20,7 +20,6 @@ Oil price fluctuations are a major source of instability in the global economic 
 - **Publications**
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
 
 - **Working Papers**
   - Farzana Alamgir and Alok Johri (2022)  International Sovereign Spread Differences and the Poverty of Nations .
