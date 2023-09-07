@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Publications
 permalink: /Research/
 
 description: Research works.
