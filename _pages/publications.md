@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Research/
-title: Publications
+
 description: Research works.
 nav: true
 nav_order: 1
