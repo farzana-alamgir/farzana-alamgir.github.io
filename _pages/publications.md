@@ -12,6 +12,7 @@ nav_order: 1
 </div>
 
 - **Job Market Paper**
+
   -Oil Price Uncertainty and Sovereign Default
   
 Abstract: 
@@ -23,4 +24,4 @@ Oil price fluctuations are a major source of instability in the global economic 
 
 
 - **Working Papers**
-  - Farzana Alamgir and Alok Johri (2022)  International Sovereign Spread Differences and the Poverty of Nations .
+  - Alamgir, F., & Johri, A. (2022). International Sovereign Spread Differences and the Poverty of Nations. Available at SSRN.
