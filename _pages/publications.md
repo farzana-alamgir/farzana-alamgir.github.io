@@ -14,7 +14,7 @@ nav_order: 1
 ### Job Market Paper
  
 ##### Oil Price Uncertainty and Sovereign Default
-<a href="[https://www.something.com](https://drive.google.com/file/d/1t5myHFw2vMuoT16lEA3se_37_riLG0wY/view?usp=drive_link)"> Something </a>
+
 [Recent version](https://drive.google.com/file/d/1t5myHFw2vMuoT16lEA3se_37_riLG0wY/view?usp=drive_link)
  
 **Abstract:** 
