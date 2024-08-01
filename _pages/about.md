@@ -14,8 +14,7 @@ profile:
 
 ---
 
-I am a PhD candidate at McMaster University, Department of Economics. My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models.
+I am an Assistant Professor of Economics at Algoma University, Department of Economics (Brampton). My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models.
 
-I will join Bryant University as a Lecturer of Economics in August 2024.
 
 Contact: alamgirf@mcmaster.ca
