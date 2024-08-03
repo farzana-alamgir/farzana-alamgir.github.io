@@ -14,7 +14,7 @@ profile:
 
 ---
 
-I am an Assistant Professor of Economics at Algoma University, Department of Economics (Brampton). My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models.
+I am an Assistant Professor of Economics at Algoma University, Faculty of Business & Economics (Brampton). My primary research interest is in the areas of Macroeconomics, with a focus on sovereign default models.
 
 
-Contact: alamgirf@mcmaster.ca
+Contact: farzana.alamgir@algomau.ca
