@@ -8,8 +8,8 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1280 Main st west</p>
-    <p>Hamilton, ON L8S 4L8</p>
+    <p>Room A-520, 24 Queen St E</p>
+    <p>Brampton, ON L6V 1A3</p>
 
 
 ---
