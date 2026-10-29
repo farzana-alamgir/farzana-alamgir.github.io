@@ -15,23 +15,25 @@ nav_order: 1
 <strong>Oil Price Uncertainty and Sovereign Spreads of Oil Importers</strong><br>
 Farzana Alamgir (2026)<br>
 <em>Revise and Resubmit, Journal of Economic Dynamics and Control</em><br>
-<a href="https://drive.google.com/file/d/1t5myHFw2vMuoT16lEA3se_37_riLG0wY/view?usp=drive_link">Download paper</a>
+<a href="/assets/pdf/Alamgir_Oil_Price_Uncertainty_Sovereign_Spreads.pdf">Download paper</a>
 </p>
 <details>
 <summary>Abstract</summary>
-<p>This paper studies how changes in the volatility of global oil prices affect sovereign spreads. First, I establish a positive correlation between sovereign spreads and oil price volatility for 35 oil-importing countries. I then introduce time-varying volatility in the global oil price within a sovereign default model with long-duration bonds for a small open economy that imports oil as a factor of production. I model oil prices as a stochastic volatility process, estimated using Bayesian Markov Chain Monte Carlo techniques. During highly volatile periods, the response of sovereign spreads to fluctuations in oil price levels is three times more pronounced than in less volatile times, and higher debt levels intensify the sensitivity of spreads to oil prices. As a result, the government borrows proactively when it anticipates future oil price increases, as insurance against higher import costs and borrowing rates.</p>
+<p>This paper examines how global oil price volatility affects sovereign spreads in oil-importing countries. Using data from 35 emerging economies, I first establish a positive empirical relationship between oil price volatility and spreads. I then develop a sovereign default model where oil prices follow a stochastic volatility process estimated via Bayesian MCMC methods. The model reveals that spread responses to oil price changes are highly state-dependent. During high volatility periods, spreads respond three times more sharply to price fluctuations than during normal times. Debt levels amplify this sensitivity: more indebted economies experience larger spread increases. Importantly, governments strategically borrow more during high volatility periods when oil prices are expected to rise, effectively using debt as insurance against future import costs and higher borrowing rates. These findings highlight oil price uncertainty as a quantitatively important macroeconomic risk for oil-importing nations.</p>
 </details>
 
 <p>
 <strong>Does Mortgage Credit Expansion Crowd Out Productive Investment?</strong><br>
 Farzana Alamgir and Nusrate Aziz (2026)<br>
-Working paper
+Work in progress<br>
+<a href="/assets/pdf/Alamgir_Aziz_Mortgage_Credit_Slides_CEA2026.pdf">Slides (CEA 2026)</a>
 </p>
 
 <p>
 <strong>International Sovereign Spread Differences and the Poverty of Nations</strong><br>
 Farzana Alamgir and Alok Johri (2022)<br>
-Working paper
+Working paper<br>
+<a href="https://ideas.repec.org/p/mcm/deptwp/2022-06.html">Download paper</a>
 </p>
 
 ### Peer-Reviewed Publications
