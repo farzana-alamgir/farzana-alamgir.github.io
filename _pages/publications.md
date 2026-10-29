@@ -31,7 +31,7 @@ Work in progress<br>
 
 <p>
 <strong>International Sovereign Spread Differences and the Poverty of Nations</strong><br>
-Farzana Alamgir and Alok Johri (2022)<br>
+Farzana Alamgir and Alok Johri (2024)<br>
 Working paper<br>
 <a href="https://ideas.repec.org/p/mcm/deptwp/2022-06.html">Download paper</a>
 </p>
