@@ -26,7 +26,7 @@ Farzana Alamgir (2026)<br>
 <strong>Does Mortgage Credit Expansion Crowd Out Productive Investment?</strong><br>
 Farzana Alamgir and Nusrate Aziz (2026)<br>
 Work in progress<br>
-<a href="/assets/pdf/Alamgir_Aziz_Mortgage_Credit_Slides_CEA2026.pdf">Slides (CEA 2026)</a>
+<a href="/assets/pdf/TFP_residential_investment_CEA2026.pdf">Slides (CEA 2026)</a>
 </p>
 
 <p>
